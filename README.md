@@ -15,7 +15,7 @@
   <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b23bfe9e539e63d64158496fc65e914f41fcad5f/assets/email.svg" alt="Email" height="66" /></a>
 </p>
 
-<p><strong>📍 Texas · 🎓 Junior, B.S. in Computer Science<br/>💼 Seeking Summer 2027 software engineering internships</strong></p>
+<p><strong>📍 Houston, Texas · 🎓 Junior, B.S. in Computer Science<br/>💼 Seeking Summer 2027 software engineering internships</strong></p>
 
 </div>
 
