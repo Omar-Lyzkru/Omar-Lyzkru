@@ -12,10 +12,10 @@
   <a href="https://omar-lyzkru.github.io/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/portfolio.svg" alt="Portfolio" height="66" /></a>
   <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b308430372412cb0f58bd6b4f399910c6661370a/assets/resume.svg" alt="Résumé" height="66" /></a>
   <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/linkedin.svg" alt="LinkedIn" height="66" /></a>
-  <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b308430372412cb0f58bd6b4f399910c6661370a/assets/email.svg" alt="Email" height="66" /></a>
+  <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b23bfe9e539e63d64158496fc65e914f41fcad5f/assets/email.svg" alt="Email" height="66" /></a>
 </p>
 
-<sub>📍 Texas &nbsp;·&nbsp; 🎓 Junior, B.S. Computer Science &nbsp;·&nbsp; 💼 Seeking Summer 2027 software engineering internships</sub>
+<p><strong>📍 Texas · 🎓 Junior, B.S. in Computer Science<br/>💼 Seeking Summer 2027 software engineering internships</strong></p>
 
 </div>
 
