@@ -9,10 +9,10 @@
 *Building software with care, testing, and clear explanations.*
 
 <p>
-  <a href="https://omar-lyzkru.github.io/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/portfolio.svg" alt="Portfolio" height="40" /></a>
-  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/resume.svg" alt="Résumé" height="40" /></a>
-  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/linkedin.svg" alt="LinkedIn" height="40" /></a>
-  <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/email.svg" alt="Email" height="40" /></a>
+  <a href="https://omar-lyzkru.github.io/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/portfolio.svg" alt="Portfolio" height="66" /></a>
+  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/resume.svg" alt="Résumé" height="66" /></a>
+  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/linkedin.svg" alt="LinkedIn" height="66" /></a>
+  <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/c9be6009235f0c1b05db7f72460bf3eda522c0d5/assets/email.svg" alt="Email" height="66" /></a>
 </p>
 
 <sub>📍 Texas &nbsp;·&nbsp; 🎓 Junior, B.S. Computer Science &nbsp;·&nbsp; 💼 Seeking Summer 2027 software engineering internships</sub>
@@ -48,8 +48,7 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 
 ## Currently
 
-- 🔬 Undergraduate research with [PaSS Lab](https://pass-uh.github.io/team/) at the University of Houston, since Fall 2026
-
+- 🔬 Undergraduate member of [PaSS Lab](https://pass-uh.github.io/team/) at the University of Houston, since Fall 2026
 - 🔭 Exploring **AI and systems** work
 - 🎯 Looking for **Summer 2027** software engineering internships
 - 📖 Reading and thinking about philosophy
