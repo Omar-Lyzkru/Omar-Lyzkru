@@ -7,10 +7,10 @@
 *Full-stack · AI · Systems — building things that are careful, tested, and explainable.*
 
 <p>
-  <a href="https://omar-lyzkru.github.io/"><img src="https://img.shields.io/badge/Portfolio-E5398F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-161b22?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" /></a>
-  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:o9086498@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://omar-lyzkru.github.io/"><img src="assets/portfolio.svg" alt="Portfolio" height="40" /></a>
+  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="assets/resume.svg" alt="Résumé" height="40" /></a>
+  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="assets/linkedin.svg" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:o9086498@gmail.com"><img src="assets/email.svg" alt="Email" height="40" /></a>
 </p>
 
 <sub>📍 Texas &nbsp;·&nbsp; 🎓 Junior, B.S. Computer Science &nbsp;·&nbsp; 💼 Seeking Summer 2027 software engineering internships</sub>
@@ -35,24 +35,15 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 | 🤖 | [**Job Applier**](https://github.com/Omar-Lyzkru/job-applier) | Local LinkedIn Easy Apply assistant that fills supported forms from a saved profile, with dry-run mode and local history. | `Node.js` `Playwright` |
 | 🌌 | [**Portfolio**](https://github.com/Omar-Lyzkru/omar-lyzkru.github.io) | Interactive portfolio with case studies and a verified-only technical toolkit. | `JavaScript` `HTML` `CSS` |
 
-> **A note on AI:** DurableKV, Calendar Intelligence Hub and Job Applier were built with AI coding agents. My role was requirements, design approval, and testing. Each repo documents what is and isn't verified.
-
 ## Tech Stack
 
-<div align="center">
+**Languages:** C++ · TypeScript · JavaScript · Python
 
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nodejs,express,postgres,prisma&theme=dark" alt="Languages and frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,github,playwright,vite,docker&theme=dark" alt="Tools" />
+**Web:** React · Node.js · Express · Vite
 
-</div>
+**Data:** PostgreSQL · Prisma
 
-| | |
-|---|---|
-| **Languages** | C++ · TypeScript · JavaScript · Python |
-| **Web** | React · Node.js · Express · Vite |
-| **Data** | PostgreSQL · Prisma |
-| **Testing & tools** | Vitest · Playwright · Linux · Git · GitHub · Make |
+**Testing & tools:** Vitest · Playwright · Linux · Git · GitHub · Make
 
 ## Currently
 
@@ -63,9 +54,3 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 ## Interests
 
 📚 Reading &nbsp;·&nbsp; 🧠 Philosophy &nbsp;·&nbsp; 🏋️ Working out &nbsp;·&nbsp; ⚡ Optimization &nbsp;·&nbsp; 🌱 Learning
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-Lyzkru&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E5398F&icon_color=E5398F" alt="GitHub stats" />
-
-</div>
