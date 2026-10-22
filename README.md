@@ -48,6 +48,8 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 
 ## Currently
 
+- 🔬 Undergraduate research with [PaSS Lab](https://pass-uh.github.io/team/) at the University of Houston, since Fall 2026
+
 - 🔭 Exploring **AI and systems** work
 - 🎯 Looking for **Summer 2027** software engineering internships
 - 📖 Reading and thinking about philosophy
