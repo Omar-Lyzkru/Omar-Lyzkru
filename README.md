@@ -4,7 +4,9 @@
 
 **Computer Science @ University of Houston · Class of May 2028**
 
-*Full-stack · AI · Systems — building things that are careful, tested, and explainable.*
+*Full-stack · AI · Systems*
+
+*Building software with care, testing, and clear explanations.*
 
 <p>
   <a href="https://omar-lyzkru.github.io/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/portfolio.svg" alt="Portfolio" height="40" /></a>
