@@ -7,10 +7,10 @@
 *Full-stack · AI · Systems — building things that are careful, tested, and explainable.*
 
 <p>
-  <a href="https://omar-lyzkru.github.io/"><img src="assets/portfolio.svg" alt="Portfolio" height="40" /></a>
-  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="assets/resume.svg" alt="Résumé" height="40" /></a>
-  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="assets/linkedin.svg" alt="LinkedIn" height="40" /></a>
-  <a href="mailto:o9086498@gmail.com"><img src="assets/email.svg" alt="Email" height="40" /></a>
+  <a href="https://omar-lyzkru.github.io/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/portfolio.svg" alt="Portfolio" height="40" /></a>
+  <a href="https://omar-lyzkru.github.io/Omar-Aguilar-Resume.pdf"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/resume.svg" alt="Résumé" height="40" /></a>
+  <a href="https://www.linkedin.com/in/omar-aguilar-b590b4277/"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/linkedin.svg" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:o9086498@gmail.com"><img src="https://raw.githubusercontent.com/Omar-Lyzkru/Omar-Lyzkru/b7e7069d6b7149b041e82b81fed4a2e818a86468/assets/email.svg" alt="Email" height="40" /></a>
 </p>
 
 <sub>📍 Texas &nbsp;·&nbsp; 🎓 Junior, B.S. Computer Science &nbsp;·&nbsp; 💼 Seeking Summer 2027 software engineering internships</sub>
