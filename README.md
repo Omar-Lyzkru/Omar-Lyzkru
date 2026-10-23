@@ -54,4 +54,4 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 
 ## Interests
 
-📚 Reading &nbsp;·&nbsp; 🧠 Philosophy &nbsp;·&nbsp; 🏋️ Working out &nbsp;·&nbsp; ⚡ Optimization &nbsp;·&nbsp; 🌱 Learning
+📚 Reading &nbsp;·&nbsp; 🧠 Philosophy &nbsp;·&nbsp; 🏋️ Working out &nbsp;·&nbsp; ⚡ Optimization &nbsp;·&nbsp; 🌱 Learning; 🛸 Anime &nbsp;·&nbsp
