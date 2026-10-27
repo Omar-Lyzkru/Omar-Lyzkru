@@ -27,7 +27,7 @@ I'm a junior at the University of Houston who likes systems that fail safely: st
 
 Outside of code: reading, philosophy, working out, and learning just about anything.
 
-## Featured Projects
+## Featured Project
 
 | | Project | What it is | Stack |
 |---|---|---|---|
