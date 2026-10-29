@@ -21,7 +21,7 @@
 
 ---
 
-## About
+## About!
 
 I'm a junior at the University of Houston who likes systems that fail safely: storage engines that recover from a crash, and automation that asks before it writes. I care about **optimization**, clear design, and being honest about what is and isn't verified.
 
