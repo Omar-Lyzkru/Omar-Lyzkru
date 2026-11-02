@@ -32,7 +32,7 @@ Outside of code: reading, philosophy, working out, and learning just about anyth
 | | Project | What it is | Stack |
 |---|---|---|---|
 | 🏆 | [**PermitWatch**](https://github.com/Abbas9x/permitwatch-houston) | 4-person team project; **Environmental Track Winner at CodeRED Orion**. Houston-area permit tracking. I worked on data integration and the React/TypeScript frontend. | `React` `TypeScript` |
-| 💾 | [**DurableKV**](https://github.com/Omar-Lyzkru/DurableKV) | ersistent key-value storage engine on an append-only, CRC32C-checked binary log, with index rebuild, incomplete-tail recovery, compaction, and failure-injection tests. | `C++20` `Make` |
+| 💾 | [**DurableKV**](https://github.com/Omar-Lyzkru/DurableKV) | Persistent key-value storage engine on an append-only, CRC32C-checked binary log, with index rebuild, incomplete-tail recovery, compaction, and failure-injection tests. | `C++20` `Make` |
 | 📅 | [**Calendar Intelligence Hub**](https://github.com/Omar-Lyzkru/calendar-intelligence-hub) | Turns Gmail, Outlook and Discord messages into reviewed Google Calendar events. Deterministic extraction, duplicate-safe writes, and review before automation. | `TypeScript` `React` `Express` `PostgreSQL` `Prisma` |
 | 🤖 | [**Job Applier**](https://github.com/Omar-Lyzkru/job-applier) | Local LinkedIn Easy Apply assistant that fills supported forms from a saved profile, with dry-run mode and local history. | `Node.js` `Playwright` |
 
